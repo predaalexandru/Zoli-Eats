@@ -28,7 +28,6 @@ const Food = () => {
       Best Menu Items
     </h1>
 
-    {/* Filter Row */}
     <div className='flex flex-col lg:flex-row justify-between'>
       {/* Fliter Type */}
       <div>
