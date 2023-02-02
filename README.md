@@ -19,5 +19,3 @@ Project of a delivery app created with React, Tailwind CSS.
 ![alt text](https://github.com/predaalexandru/Img-Repo/blob/master/delivery%20app/delivery-3.PNG "3")
 
 ![alt text](https://github.com/predaalexandru/Img-Repo/blob/master/delivery%20app/delivery-4.PNG "4")
-
-![alt text](https://github.com/predaalexandru/Img-Repo/blob/master/delivery%20app/delivery-5.PNG "5")
